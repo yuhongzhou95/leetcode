@@ -5,6 +5,10 @@ import java.util.List;
 
 /**
  * 括号生成
+ * 第四次刷题时间：2020年7月30日14:42:02
+ * 第一次刷题时间：2020年7月20日
+ * 第二次刷题时间：2020年7月10日
+ * 第三次刷题时间：2020年7月8日
  */
 public class Q22 {
     public static void main(String[] args) {

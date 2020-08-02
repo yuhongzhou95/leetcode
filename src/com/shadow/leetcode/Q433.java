@@ -12,6 +12,14 @@ import java.util.Set;
  */
 public class Q433 {
 
+    /**
+     * 解题思路：BSF 广度优先遍历
+     *
+     * @param start
+     * @param end
+     * @param bank
+     * @return
+     */
     public int minMutation(String start, String end, String[] bank) {
         Set<String> bankSet = new HashSet<>(Arrays.asList(bank));
         if (bankSet.isEmpty() || !bankSet.contains(end)) {

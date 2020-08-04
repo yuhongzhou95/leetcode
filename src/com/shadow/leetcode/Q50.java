@@ -1,7 +1,8 @@
 package com.shadow.leetcode;
 
 /**
- * Pow(x, n)
+ * 50. Pow(x, n)
+ * 第二次刷题：2020年8月4日20:54:49
  */
 public class Q50 {
 

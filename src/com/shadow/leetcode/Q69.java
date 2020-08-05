@@ -32,7 +32,7 @@ public class Q69 {
     }
 
     /**
-     * 解题思路：牛顿法
+     * 解题思路：牛顿迭代法
      *
      * @param x
      * @return
